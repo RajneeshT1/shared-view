@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">shared</string>
+    <string name="age">age</string>
+    <string name="batman">batman</string>
+    <string name="harward">harward</string>
+    <string name="superman">superman</string>
+    <string name="name">name</string>
+    <string name="cls">class</string>
+    <string name="button">Button</string>
+</resources>
